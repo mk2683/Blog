@@ -1,3 +1,2 @@
 # Blog
-its about my own blog.
-in the process of making
+Published at  https://mk2683.github.io/Blog/
